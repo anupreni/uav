@@ -1,1 +1,1 @@
-UAV for drone delivery service
+Drone for delivery service
