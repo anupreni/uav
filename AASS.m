@@ -1,3 +1,14 @@
+%=============================================
+%UAV For Delivery Service 
+%=============================================
+%AUTHOR: Anup Renikunta
+%15-04-2019
+%Geethanjali College of Engineering
+%---------------------------------------------
+%MATLAB Code to solve equations for optimising design 
+%using Mccormick Method
+%----------------------------------------------
+
 clc;
 %SETUP
 W=3.52;      %All-up weight of UAV in lbf
